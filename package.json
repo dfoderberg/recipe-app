@@ -1,0 +1,22 @@
+{
+  "name": "recipe_app",
+  "version": "1.0.0",
+  "description": "Displays ingredient metrics to help people understand more about cooking",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "eslint": "^3.19.0",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davis Foderberg",
+  "license": "ISC"
+}
